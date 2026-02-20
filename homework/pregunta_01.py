@@ -16,6 +16,7 @@ def pregunta_01():
     a="Hola"
     b="mundo"
     c="cruel!"
+    
     word=" ".join([a,b,c])
 
 
