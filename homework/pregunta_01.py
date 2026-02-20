@@ -13,8 +13,13 @@ def pregunta_01():
     Hola mundo cruel!
 
     """
+    a="Hola"
+    b="mundo"
+    c="cruel!"
+    word=" ".join([a,b,c])
 
-    return
+
+    return  word
 
 
 if __name__ == "__main__":
